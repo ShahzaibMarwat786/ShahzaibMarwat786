@@ -1,9 +1,6 @@
-## Hi there👋
-## I'm Shahzaib Marwat
-
 ![logo](https://avatars.githubusercontent.com/u/219545485?v=4)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahwaiz+Ali!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+SHAH+ZAIB+HABIB;" />
 </h1>
 
 <h3 align="center">An Ai Enthusiast With Keen Interest in ML & DL</h3>
